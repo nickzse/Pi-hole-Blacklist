@@ -1,1 +1,1 @@
-# Pi-hole-Blacklist
+# Pi-hole-Blocklist
